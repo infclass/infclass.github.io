@@ -1,3 +1,19 @@
+## [Infclass client v0.1.2](https://github.com/infclass/infclass-client/releases/tag/v0.1.2)
+
+- Prototyped 'forced to spectate' camera mode
+- Added an indicator for own character hook protection status
+- Added indicators for own structures (bombs, walls, mines, turrets)
+- Added a custom icon for turret kills
+- Customized infclass entities texture
+
+Links:
+- [Source code](https://github.com/infclass/infclass-client/releases/tag/v0.1.2)
+- [Windows build](https://github.com/infclass/infclass-client/releases/download/v0.1.2/Infclass-0.1.2-win64.zip)
+- [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.2/Infclass-0.1.2-macos.dmg)
+- [GNU/Linux build](https://github.com/infclass/infclass-client/releases/download/v0.1.2/Infclass-0.1.2-linux_x86_64.tar.xz)
+
+(The build is done by GitHub: https://github.com/infclass/infclass-client/actions/runs/1657984996, feel free to compare the check sums of the built artifacts)
+
 ## [Infclass client v0.1.0 (tech preview)](https://github.com/infclass/infclass-client/releases/tag/v0.1.0)
 
 - Implemented killer assistance
