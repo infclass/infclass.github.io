@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+show_downloads: true
+github:
+  client_url: https://github.com/infclass/infclass-client/releases/latest
+  server_url: https://github.com/InfectionDust/teeworlds-infclassR/releases/latest
+  teeuniverse_url: https://github.com/InfectionDust/teeuniverse/releases/latest
+  bind_url: https://gist.github.com/Kaffeine/fad5a6666790ecb1550a7010449eedc5
