@@ -1,3 +1,23 @@
+## [Infclass client v0.1.3](https://github.com/infclass/infclass-client/releases/tag/v0.1.3)
+
+- Implemented Infclass-specific binds (see Settings->Controls; the binds enabled *only* for the infclass gametype)
+- Auto updates reimplemented for Infclass client and enabled in the builds
+- Added missing damage type icons (bio laser, turret, etc)
+- `Ghost` skin for ghost class
+- Rebased on DDNet 15.9.1
+- All builds now have video recorded enabled
+- Fixed the pistol and shotgun bullets rendering in demo playback
+- Fixed binds (in general)
+- Fixed possible crash on alt-tab with displayed kill message with assistant
+
+Links:
+- [Source code](https://github.com/infclass/infclass-client/releases/tag/v0.1.3)
+- [Windows build](https://github.com/infclass/infclass-client/releases/download/v0.1.3/Infclass-0.1.3-win64.zip)
+- [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.3/Infclass-0.1.3-macos.dmg)
+- [GNU/Linux build](https://github.com/infclass/infclass-client/releases/download/v0.1.3/Infclass-0.1.3-linux_x86_64.tar.xz)
+
+(The build is done by GitHub: https://github.com/infclass/infclass-client/actions/runs/1977307628, feel free to compare the check sums of the built artifacts)
+
 ## [Infclass client v0.1.2](https://github.com/infclass/infclass-client/releases/tag/v0.1.2)
 
 - Prototyped 'forced to spectate' camera mode
