@@ -1,0 +1,4 @@
+{
+    "version": "0.1.4",
+    "news": "|Infclass v0.1.4 released|\nInfclass v0.1.4 has been released with the following highlights:\n\u2022 Added custom HUD for Hero\n\u2022 Class chooser now visible in entities mode\n\u2022 ScoreBoard now displays time limit in seconds, if applicable\n\u2022 The client rebased on DDNet v16.0.3 (which should fix compatibility issues like missing quads)\n"
+}
