@@ -1,3 +1,19 @@
+## [Infclass client v0.1.4](https://github.com/infclass/infclass-client/releases/tag/v0.1.4)
+
+- Added custom HUD for Hero
+- Class chooser now visible in entities mode
+- ScoreBoard now displays time limit in seconds, if applicable
+- Walk animation disabled for Ghosts
+- The client rebased on DDNet v16.0.3 (which should fix compatibility issues like missing quads)
+
+Links:
+- [Source code](https://github.com/infclass/infclass-client/releases/tag/v0.1.4)
+- [Windows build](https://github.com/infclass/infclass-client/releases/download/v0.1.4/Infclass-0.1.4-win64.zip)
+- [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.4/Infclass-0.1.4-macos.dmg)
+- [GNU/Linux build](https://github.com/infclass/infclass-client/releases/download/v0.1.4/Infclass-0.1.4-linux_x86_64.tar.xz)
+
+(The build is done by GitHub: https://github.com/infclass/infclass-client/actions/runs/2338725288, feel free to compare the check sums of the built artifacts)
+
 ## [Infclass client v0.1.3](https://github.com/infclass/infclass-client/releases/tag/v0.1.3)
 
 - Implemented Infclass-specific binds (see Settings->Controls; the binds enabled *only* for the infclass gametype)
