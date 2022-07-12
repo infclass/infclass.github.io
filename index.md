@@ -1,3 +1,20 @@
+## [Infclass client v0.1.5](https://github.com/infclass/infclass-client/releases/tag/v0.1.5)
+
+- Added player hook protection icons
+- Implemented client-side prediction for hook and weapons (Settings ⇒ DDNet ⇒ AntiPing checkbox, recommended for players with 80+ ping)
+- Added initial Infclass *tiles* support to the map editor
+- Based on DDNet v16.2.2
+
+See also [Full features list](https://infclass.github.io/features)
+
+Links:
+- [Source code](https://github.com/infclass/infclass-client/releases/tag/v0.1.5)
+- [Windows build](https://github.com/infclass/infclass-client/releases/download/v0.1.5/Infclass-0.1.5-win64.zip)
+- [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.5/Infclass-0.1.5-macos.dmg)
+- [GNU/Linux build](https://github.com/infclass/infclass-client/releases/download/v0.1.5/Infclass-0.1.5-linux_x86_64.tar.xz)
+
+(The build is done by GitHub: https://github.com/infclass/infclass-client/actions/runs/2659213482, feel free to compare the check sums of the artifacts)
+
 ## [Infclass client v0.1.4](https://github.com/infclass/infclass-client/releases/tag/v0.1.4)
 
 - Added custom HUD for Hero
