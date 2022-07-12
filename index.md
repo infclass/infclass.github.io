@@ -12,7 +12,7 @@ Links:
 - [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.4/Infclass-0.1.4-macos.dmg)
 - [GNU/Linux build](https://github.com/infclass/infclass-client/releases/download/v0.1.4/Infclass-0.1.4-linux_x86_64.tar.xz)
 
-(The build is done by GitHub: https://github.com/infclass/infclass-client/actions/runs/2338725288, feel free to compare the check sums of the built artifacts)
+(The build is done by GitHub: https://github.com/infclass/infclass-client/actions/runs/2339069539, feel free to compare the check sums of the built artifacts)
 
 ## [Infclass client v0.1.3](https://github.com/infclass/infclass-client/releases/tag/v0.1.3)
 
