@@ -1,4 +1,0 @@
-{
-    "version": "0.1.5",
-    "news": "|Infclass v0.1.5 released|\nInfclass v0.1.5 has been released with the following highlights:\n\u2022 Added player hook protection icons\n\u2022 Implemented client-side prediction for hook and weapons\n\u2022 Added initial Infclass *tiles* support to the map editor\n\u2022 Based on DDNet v16.2.2\n\n|Infclass v0.1.4 released|\nInfclass v0.1.4 has been released with the following highlights:\n\u2022 Added custom HUD for Hero\n\u2022 Class chooser now visible in entities mode\n\u2022 ScoreBoard now displays time limit in seconds, if applicable\n\u2022 The client rebased on DDNet v16.0.3 (which should fix compatibility issues like missing quads)\n"
-}
