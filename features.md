@@ -11,6 +11,7 @@
 - Custom skin for Ghost class (with smooth walking animation and semi-transparency for "invisible" state)
 - Custom Infclass entities texture
 - Custom infected hook appearance
+- Freeze bar support
 - Human class menu is visible in entities mode
 - Initial Infclass *tiles* support to the map editor
 - Fixed the pistol and shotgun bullets rendering in demo playback
