@@ -1,4 +1,4 @@
-## [Infclass client v0.1.7](https://github.com/infclass/infclass-client/releases/tag/v0.1.7)
+## [Infclass client v0.1.7.1](https://github.com/infclass/infclass-client/releases/tag/v0.1.7.1)
 
 - Fixed Infclass HUD rendering for spectators
 - Enabled DDRace HUD for infclass (toggle via `infc_use_ddrace_hud` or Settings->Appearance->Infclass HUD)
@@ -8,12 +8,12 @@
 See also [Full features list](https://infclass.github.io/features)
 
 Links:
-- [Source code](https://github.com/infclass/infclass-client/releases/tag/v0.1.7)
-- [Windows build](https://github.com/infclass/infclass-client/releases/download/v0.1.7/Infclass-0.1.7-win64.zip)
-- [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.7/Infclass-0.1.7-macos.dmg)
-- [GNU/Linux build](https://github.com/infclass/infclass-client/releases/download/v0.1.7/Infclass-0.1.7-linux_x86_64.tar.xz)
+- [Source code](https://github.com/infclass/infclass-client/releases/tag/v0.1.7.1)
+- [Windows build](https://github.com/infclass/infclass-client/releases/download/v0.1.7.1/Infclass-0.1.7.1-win64.zip)
+- [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.7.1/Infclass-0.1.7.1-macos.dmg)
+- [GNU/Linux build](https://github.com/infclass/infclass-client/releases/download/v0.1.7.1/Infclass-0.1.7.1-linux_x86_64.tar.xz)
 
-(The build is done by GitHub: https://github.com/infclass/infclass-client/actions/runs/5495329162, feel free to compare the check sums of the artifacts)
+(The build is done by [GitHub Action](https://github.com/infclass/infclass-client/actions/runs/5495933533), feel free to compare the check sums of the artifacts)
 
 ## [Infclass client v0.1.6](https://github.com/infclass/infclass-client/releases/tag/v0.1.6)
 
