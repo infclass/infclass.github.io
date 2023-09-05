@@ -13,8 +13,6 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <a href="/"><img src="/assets/logo720.png" style="width: 100%; height: auto; max-width: 720px;" alt="Infclass"></a>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -28,6 +26,7 @@
       {% endif %}
     </header>
 
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
     <main id="content" class="main-content" role="main">
       {{ content }}
 
