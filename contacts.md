@@ -1,3 +1,9 @@
+# Contacts
+
+## YouTube
+
+- [Infclass channel](https://www.youtube.com/@Infclass)
+
 ## Discord
 
 - [Official Infclass server](https://discord.gg/Sxk5ssv)

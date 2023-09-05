@@ -21,9 +21,10 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
         <a href="{{ site.github.client_url }}" class="btn">Infclass Client</a>
-        <a href="{{ site.github.teeuniverse_url }}" class="btn">TeeUniverse</a>
         <a href="{{ site.github.server_url }}" class="btn">Infclass Server</a>
-        <a href="{{ site.github.bind_url }}" class="btn">Recommended Binds</a>
+        <a href="{{ site.github.teeuniverse_url }}" class="btn">TeeUniverse</a>
+        <a href="/files/infclass-binds.cfg" class="btn">Recommended Binds</a>
+        <a href="/contacts" class="btn">Contacts</a>
       {% endif %}
     </header>
 
@@ -39,4 +40,3 @@
     </main>
   </body>
 </html>
-
