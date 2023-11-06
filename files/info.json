@@ -1,0 +1,4 @@
+{
+    "version": "0.1.8",
+    "news": "|Infclass v0.1.8 released|\nInfclass v0.1.8 has been released with the following highlights:\n\u2022 Custom HUD for Scientist, Hero, Engineer, and Looper classes\n\u2022 Client-side rendering for some objects (mines, bombs)\n\u2022 Improved client-side predictions\n\u2022 Based on DDNet v17.3 (actually on a newer nightbuild)\n\n|Infclass v0.1.4 released|\nInfclass v0.1.4 has been released with the following highlights:\n\u2022 Added custom HUD for Hero\n\u2022 Class chooser now visible in entities mode\n\u2022 ScoreBoard now displays time limit in seconds, if applicable\n\u2022 The client rebased on DDNet v16.0.3 (which should fix compatibility issues like missing quads)\n"
+}
