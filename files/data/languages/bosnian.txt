@@ -148,9 +148,6 @@ Favorites
 Feet
 == Stopala
 
-Filter
-== Filter
-
 Fire
 == Pucanje
 
@@ -162,9 +159,6 @@ Force vote
 
 Free-View
 == Slobodan pogled
-
-Friends
-== Prijatelji
 
 Fullscreen
 == Čitav ekran
@@ -359,12 +353,6 @@ Screenshot
 Server address:
 == Adresa servera:
 
-Server details
-== Podaci o serveru
-
-Server filter
-== Filter servera
-
 Server info
 == O Serveru
 
@@ -534,9 +522,6 @@ Netversion:
 
 Map:
 == Mapa:
-
-Info
-== Info
 
 Hue
 == Nijans.
@@ -1072,6 +1057,12 @@ Sending initial client info
 Warning
 == 
 
+Quitting. Please wait…
+== 
+
+Restarting. Please wait…
+== 
+
 Debug mode enabled. Press Ctrl+Shift+D to disable debug mode.
 == 
 
@@ -1082,6 +1073,9 @@ Speed:
 == 
 
 Angle:
+== 
+
+Multi-View
 == 
 
 Team %d
@@ -1108,6 +1102,9 @@ Getting game info
 Requesting to join the game
 == 
 
+Rename folder
+== 
+
 Existing Player
 == 
 
@@ -1120,7 +1117,16 @@ Checking for existing player with your name
 A demo with this name already exists
 == 
 
+A folder with this name already exists
+== 
+
+Unable to rename the folder
+== 
+
 File '%s' already exists, do you want to overwrite it?
+== 
+
+(paused)
 == 
 
 Speed
@@ -1226,10 +1232,33 @@ Pause the current demo
 Stop the current demo
 == 
 
+Go back the specified duration
+== 
+
+[Demo player duration]
+%d min.
+== 
+
+[Demo player duration]
+%d sec.
+== 
+
+Change the skip duration
+== 
+
+Go forward the specified duration
+== 
+
 Go back one tick
 == 
 
 Go forward one tick
+== 
+
+Go back one marker
+== 
+
+Go forward one marker
 == 
 
 Slow down the demo
@@ -1247,12 +1276,6 @@ Mark the end of a cut (right click to reset)
 Export cut as a separate demo
 == 
 
-Go back one marker
-== 
-
-Go forward one marker
-== 
-
 Close the demo player
 == 
 
@@ -1268,7 +1291,16 @@ Cut interval
 Cut length
 == 
 
+Render cut to video
+== 
+
 Loading demo files
+== 
+
+All combined
+== 
+
+Folder Link
 == 
 
 %.2f MiB
@@ -1283,10 +1315,19 @@ Demos directory
 Open the directory that contains the demo files
 == 
 
+Are you sure that you want to delete the folder '%s'?
+== 
+
 Are you sure that you want to delete the demo '%s'?
 == 
 
+Delete folder
+== 
+
 Unable to delete the demo '%s'
+== 
+
+Unable to delete the folder '%s'. Make sure it's empty first.
 == 
 
 Loading ghost files
@@ -1325,10 +1366,10 @@ Open the directory to add custom themes
 Max CSVs
 == 
 
-Loading skin files
+Toggle to edit your dummy settings
 == 
 
-Toggle to edit your dummy settings
+Loading skin files
 == 
 
 Download skins
@@ -1707,4 +1748,7 @@ Spree
 == 
 
 Grabs
+== 
+
+Moved ingame
 == 

@@ -150,9 +150,6 @@ Favorites
 Feet
 == Бут
 
-Filter
-== Фильтр
-
 Fire
 == Атуу
 
@@ -164,9 +161,6 @@ Force vote
 
 Free-View
 == Эркин сереп
-
-Friends
-== Достор
 
 Fullscreen
 == Толук экран
@@ -209,9 +203,6 @@ Hook
 
 Hue
 == Түсү
-
-Info
-== Маалымат
 
 Internet
 == Интернет
@@ -424,12 +415,6 @@ Screenshot
 Server address:
 == Сервер дареги:
 
-Server details
-== Сервер деталдары
-
-Server filter
-== Сервер фильтри
-
 Server info
 == Маалымат
 
@@ -578,8 +563,6 @@ Show only chat messages from friends
 == Достордун гана маек билдирүүлөрүн көрсөтүү
 
 [Graphics error]
-
-[Graphics error]
 Failed during initialization. Try to change gfx_backend to OpenGL or Vulkan in settings_ddnet.cfg in the config directory and try again.
 == 
 
@@ -663,6 +646,12 @@ Sending initial client info
 Warning
 == 
 
+Quitting. Please wait…
+== 
+
+Restarting. Please wait…
+== 
+
 Debug mode enabled. Press Ctrl+Shift+D to disable debug mode.
 == 
 
@@ -673,6 +662,9 @@ Speed:
 == 
 
 Angle:
+== 
+
+Multi-View
 == 
 
 Server best:
@@ -717,6 +709,9 @@ Requesting to join the game
 Reconnect in %d sec
 == 
 
+Rename folder
+== 
+
 Render demo
 == 
 
@@ -747,10 +742,19 @@ Checking for existing player with your name
 A demo with this name already exists
 == 
 
+A folder with this name already exists
+== 
+
+Unable to rename the folder
+== 
+
 File '%s' already exists, do you want to overwrite it?
 == 
 
 Replace video
+== 
+
+(paused)
 == 
 
 Speed
@@ -886,10 +890,33 @@ Pause the current demo
 Stop the current demo
 == 
 
+Go back the specified duration
+== 
+
+[Demo player duration]
+%d min.
+== 
+
+[Demo player duration]
+%d sec.
+== 
+
+Change the skip duration
+== 
+
+Go forward the specified duration
+== 
+
 Go back one tick
 == 
 
 Go forward one tick
+== 
+
+Go back one marker
+== 
+
+Go forward one marker
 == 
 
 Slow down the demo
@@ -905,12 +932,6 @@ Mark the end of a cut (right click to reset)
 == 
 
 Export cut as a separate demo
-== 
-
-Go back one marker
-== 
-
-Go forward one marker
 == 
 
 Close the demo player
@@ -931,6 +952,9 @@ Cut length
 Remove chat
 == 
 
+Render cut to video
+== 
+
 Please use a different name
 == 
 
@@ -938,6 +962,12 @@ File already exists, do you want to overwrite it?
 == 
 
 Loading demo files
+== 
+
+All combined
+== 
+
+Folder Link
 == 
 
 Markers:
@@ -970,13 +1000,22 @@ Demos directory
 Open the directory that contains the demo files
 == 
 
+Are you sure that you want to delete the folder '%s'?
+== 
+
 Are you sure that you want to delete the demo '%s'?
+== 
+
+Delete folder
 == 
 
 Render
 == 
 
 Unable to delete the demo '%s'
+== 
+
+Unable to delete the folder '%s'. Make sure it's empty first.
 == 
 
 Are you sure that you want to disconnect?
@@ -1066,10 +1105,10 @@ Max CSVs
 Dummy settings
 == 
 
-Loading skin files
+Toggle to edit your dummy settings
 == 
 
-Toggle to edit your dummy settings
+Loading skin files
 == 
 
 Download skins
@@ -1123,19 +1162,22 @@ Show all
 Toggle dyncam
 == 
 
-Toggle dummy
+Toggle ghost
 == 
 
-Toggle ghost
+Converse
+== 
+
+Chat command
+== 
+
+Toggle dummy
 == 
 
 Dummy copy
 == 
 
 Hammerfly dummy
-== 
-
-Converse
 == 
 
 Statboard
@@ -1148,9 +1190,6 @@ Show entities
 == 
 
 Show HUD
-== 
-
-Chat command
 == 
 
 Enable controller
@@ -1697,4 +1736,7 @@ Grabs
 == 
 
 9+ new mentions
+== 
+
+Moved ingame
 == 

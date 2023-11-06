@@ -144,9 +144,6 @@ Favorites
 Feet
 == Láb
 
-Filter
-== Szűrő
-
 Fire
 == Tűz
 
@@ -158,9 +155,6 @@ Force vote
 
 Free-View
 == Szabad nézet
-
-Friends
-== Barátok
 
 Fullscreen
 == Teljesképernyő
@@ -349,12 +343,6 @@ Screenshot
 Server address:
 == Szerver címe:
 
-Server details
-== Szerver részletei
-
-Server filter
-== Szerver szűrő
-
 Server info
 == Szerver infó
 
@@ -510,9 +498,6 @@ Netversion:
 
 Map:
 == Pálya:
-
-Info
-== Infó
 
 Miscellaneous
 == Egyéb
@@ -1319,6 +1304,7 @@ Download community skins
 Enable controller
 == Kontroller használata
 
+[Ingame controller mode]
 Relative
 == Relatív
 
@@ -1486,8 +1472,6 @@ Loading sound files
 == Hang fájlok betöltése
 
 [Graphics error]
-
-[Graphics error]
 Failed during initialization. Try to change gfx_backend to OpenGL or Vulkan in settings_ddnet.cfg in the config directory and try again.
 == Probléma derült fel inicializálás közben. Változtasson a "gfx_backend" parancson "OpenGL"-re vagy "Vulkan"-ra a "settings_ddnet.cfg" fájlon és próbálja meg újra.
 
@@ -1652,7 +1636,28 @@ Unregister protocol and file extensions
 Open the directory to add custom assets
 == Megnyitni az egyedi Képek helyét
 
+Quitting. Please wait…
+== 
+
+Restarting. Please wait…
+== 
+
+Multi-View
+== 
+
+Rename folder
+== 
+
 A demo with this name already exists
+== 
+
+A folder with this name already exists
+== 
+
+Unable to rename the folder
+== 
+
+(paused)
 == 
 
 No server selected
@@ -1683,6 +1688,23 @@ None
 Add Clan
 == 
 
+Go back the specified duration
+== 
+
+[Demo player duration]
+%d min.
+== 
+
+[Demo player duration]
+%d sec.
+== 
+
+Change the skip duration
+== 
+
+Go forward the specified duration
+== 
+
 Mark the beginning of a cut (right click to reset)
 == 
 
@@ -1701,8 +1723,29 @@ Cut interval
 Cut length
 == 
 
+Render cut to video
+== 
+
+All combined
+== 
+
+Folder Link
+== 
+
+Are you sure that you want to delete the folder '%s'?
+== 
+
+Delete folder
+== 
+
+Unable to delete the folder '%s'. Make sure it's empty first.
+== 
+
 Axis
 == 
 
 Graphics card
+== 
+
+Moved ingame
 == 

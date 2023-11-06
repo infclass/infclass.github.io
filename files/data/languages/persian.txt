@@ -145,9 +145,6 @@ Favorites
 Feet
 == ﺎﭘ
 
-Filter
-== ﺮﺘﻠﯿﻓ
-
 Fire
 == ﻚﯿﻠﺷ
 
@@ -159,9 +156,6 @@ Force vote
 
 Free-View
 == ﺩﺍﺯﺁ-ﺪﯾﺩ
-
-Friends
-== ﻥﺎﺘﺳﻭﺩ
 
 Fullscreen
 == ﻞﻣﺎﻛ ى ﻪﺤﻔﺻ
@@ -472,9 +466,6 @@ Server address:
 Refresh
 == ﯼﺯﺎﺳ ﻩﺯﺎﺗ
 
-Server filter
-== ﺭﻭﺮﺳ ﺮﺘﻠﯿﻓ
-
 Server not full
 == ﺪﺷﺎﺒﻧ ﺮﭘ ﺭﻭﺮﺳ
 
@@ -505,17 +496,11 @@ Types
 Reset filter
 == ﺮﺘﻠﯿﻓ ﻥﺩﺮﮐ ﺖﺴﯾﺭ
 
-Server details
-== ﺭﻭﺮﺳ ﺕﺎﻋﻼﻃﺍ
-
 Scoreboard
 == ﺕﺍﺯﺎﯿﺘﻣﺍ ﯼﻮﻠﺑﺎﺗ
 
 Remove
 == ﻥﺩﺮﮐ کﺎﭘ
-
-Info
-== ﺕﺎﻋﻼﻃﺍ
 
 Please use a different name
 == ﻦﮐ ﻩﺩﺎﻔﺘﺳﺍ ﺕﻭﺎﻔﺘﻣ ﻡﺎﻧ ﮏﯾ ﺯﺍ ﺎﻔﻄﻟ
@@ -867,8 +852,6 @@ Follow
 == ﻥﺩﺮﮐ ﻝﺎﺒﻧﺩ
 
 [Graphics error]
-
-[Graphics error]
 Failed during initialization. Try to change gfx_backend to OpenGL or Vulkan in settings_ddnet.cfg in the config directory and try again.
 == .ﺪﯿﻨﮐ ﺵﻼﺗ ﻩﺭﺎﺑﻭﺩ ﻭ ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ Vulkan ﺎﯾ OpenGL ﻪﺑ ﺍﺭ gfx_backend ، settings_ddnet.cfg ﺭﺩ ،ﮓﯿﻔﻧﺎﮐ ﻪﺷﻮﭘ ﺭﺩ ﺪﯿﻨﮐ ﯽﻌﺳ. ﯼﺯﺍﺪﻧﺍ ﻩﺍﺭ ﻡﺎﮕﻨﻫ ﺭﺩ ﺎﻄﺧ
 
@@ -1166,6 +1149,7 @@ Statboard
 Enable controller
 == ﻦﮐ ﻝﺎﻌﻓ ﺍﺭ ﺮﻟﺮﺘﻨﮐ
 
+[Ingame controller mode]
 Relative
 == ﯽﺒﺴﻧ [ﯼﺯﺎﺑ ﺮﻟﺮﺘﻨﮐ ﺖﻟﺎﺣ]
 
@@ -1631,7 +1615,28 @@ The format of texture %s is not RGBA which will cause visual bugs.
 Initializing map logic
 == 
 
+Quitting. Please wait…
+== 
+
+Restarting. Please wait…
+== 
+
+Multi-View
+== 
+
+Rename folder
+== 
+
 A demo with this name already exists
+== 
+
+A folder with this name already exists
+== 
+
+Unable to rename the folder
+== 
+
+(paused)
 == 
 
 Copy info
@@ -1665,6 +1670,23 @@ None
 Add Clan
 == 
 
+Go back the specified duration
+== 
+
+[Demo player duration]
+%d min.
+== 
+
+[Demo player duration]
+%d sec.
+== 
+
+Change the skip duration
+== 
+
+Go forward the specified duration
+== 
+
 Mark the beginning of a cut (right click to reset)
 == 
 
@@ -1681,6 +1703,24 @@ Cut interval
 == 
 
 Cut length
+== 
+
+Render cut to video
+== 
+
+All combined
+== 
+
+Folder Link
+== 
+
+Are you sure that you want to delete the folder '%s'?
+== 
+
+Delete folder
+== 
+
+Unable to delete the folder '%s'. Make sure it's empty first.
 == 
 
 Create a random skin
@@ -1702,4 +1742,7 @@ Spree
 == 
 
 Grabs
+== 
+
+Moved ingame
 == 

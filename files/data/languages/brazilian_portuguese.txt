@@ -27,6 +27,8 @@
 # Rafael Fontenelle   2023-01-09 10:33:00
 # Rafael Fontenelle   2023-03-26 19:11:00
 # Rafael Fontenelle   2023-07-07 12:11:00
+# Rafael Fontenelle   2023-08-14 14:17:00
+# Rafael Fontenelle   2023-09-25 14:23:00
 ##### /authors #####
 
 ##### translated strings #####
@@ -169,9 +171,6 @@ Favorites
 Feet
 == Pés
 
-Filter
-== Filtro
-
 Fire
 == Atirar
 
@@ -183,9 +182,6 @@ Force vote
 
 Free-View
 == Visualização livre
-
-Friends
-== Amigos
 
 Fullscreen
 == Tela cheia
@@ -383,12 +379,6 @@ Screenshot
 Server address:
 == Endereço:
 
-Server details
-== Detalhes do servidor
-
-Server filter
-== Filtro de servidores
-
 Server info
 == Servidor
 
@@ -574,9 +564,6 @@ Show ghost
 
 Clan plates size
 == Tamanho da placa do clã
-
-Info
-== Info
 
 No updates available
 == Nenhuma atualização disponível
@@ -1341,6 +1328,7 @@ Download community skins
 Enable controller
 == Habilitar controle
 
+[Ingame controller mode]
 Relative
 == Relativo
 
@@ -1601,8 +1589,6 @@ Are you sure that you want to reset the controls to their defaults?
 == Tem certeza que deseja redefinir os controles para seu padrão?
 
 [Graphics error]
-
-[Graphics error]
 Failed during initialization. Try to change gfx_backend to OpenGL or Vulkan in settings_ddnet.cfg in the config directory and try again.
 == Falha durante a inicialização. Tente alterar gfx_backend para OpenGL ou Vulkan em settings_ddnet.cfg no diretório de configuração e tente novamente.
 
@@ -1728,3 +1714,62 @@ Axis
 
 Graphics card
 == Placa de vídeo
+
+Quitting. Please wait…
+== Saindo. Por favor, aguarde…
+
+Restarting. Please wait…
+== Reiniciando. Por favor, aguarde…
+
+Multi-View
+== Multivisão
+
+Rename folder
+== Renomear pasta
+
+A folder with this name already exists
+== Uma pasta com este nome já existe
+
+Unable to rename the folder
+== Não foi possível renomear a pasta
+
+(paused)
+== (pausado)
+
+All combined
+== Tudo combinado
+
+Folder Link
+== Link da pasta
+
+Are you sure that you want to delete the folder '%s'?
+== Tem certeza que você deseja excluir a pasta "%s"?
+
+Delete folder
+== Excluir pasta
+
+Unable to delete the folder '%s'. Make sure it's empty first.
+== Não foi possível excluir a pasta "%s". Certifique-se que ela esteja vazia primeiro.
+
+Moved ingame
+== Movido no jogo
+
+Go back the specified duration
+== Voltar na duração especificada
+
+[Demo player duration]
+%d min.
+== %d min.
+
+[Demo player duration]
+%d sec.
+== $d seg.
+
+Change the skip duration
+== Alterar a duração de pulo
+
+Go forward the specified duration
+== Avançar na duração especificada
+
+Render cut to video
+== Renderizar corte do vídeo

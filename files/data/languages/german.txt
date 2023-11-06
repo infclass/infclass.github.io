@@ -163,9 +163,6 @@ Favorites
 Feet
 == Füße
 
-Filter
-== Filter
-
 Fire
 == Feuern
 
@@ -177,9 +174,6 @@ Force vote
 
 Free-View
 == Freie Ansicht
-
-Friends
-== Freunde
 
 Fullscreen
 == Vollbild
@@ -377,12 +371,6 @@ Screenshot
 Server address:
 == Serveradresse:
 
-Server details
-== Serverdetails
-
-Server filter
-== Filter
-
 Server info
 == Serverinfo
 
@@ -565,9 +553,6 @@ Netversion:
 
 Map:
 == Karte:
-
-Info
-== Info
 
 Hue
 == Farb.
@@ -1407,6 +1392,7 @@ UI mouse sens.
 Enable controller
 == Controller aktivieren
 
+[Ingame controller mode]
 Relative
 == Relativ
 
@@ -1720,3 +1706,62 @@ Axis
 
 Graphics card
 == Grafikkarte
+
+Quitting. Please wait…
+== Beenden. Bitte warten…
+
+Restarting. Please wait…
+== Neustarten. Bitte warten…
+
+Multi-View
+== Multi-Ansicht
+
+Rename folder
+== Ordner umbenennen
+
+A folder with this name already exists
+== Ein Ordner mit diesem Namen existiert bereits
+
+Unable to rename the folder
+== Kann den Ordner nicht umbenennen
+
+(paused)
+== (pausiert)
+
+All combined
+== Alle kombiniert
+
+Folder Link
+== Ordner-Verknüpfung
+
+Are you sure that you want to delete the folder '%s'?
+== Möchtest du wirklich den Ordner '%s' löschen?
+
+Delete folder
+== Ordner löschen
+
+Unable to delete the folder '%s'. Make sure it's empty first.
+== Kann den Ordner '%s' nicht löschen. Stell sicher dass er leer ist.
+
+Moved ingame
+== Im Spiel bewegt
+
+Go back the specified duration
+== Gesetzte Dauer zurück
+
+[Demo player duration]
+%d min.
+== %d Min.
+
+[Demo player duration]
+%d sec.
+== %d Sek.
+
+Change the skip duration
+== Überspring-Dauer ändern
+
+Go forward the specified duration
+== Gesetzte Dauer vorwärts
+
+Render cut to video
+== Schnitt zu Video rendern

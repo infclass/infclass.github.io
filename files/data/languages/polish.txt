@@ -149,9 +149,6 @@ Favorites
 Feet
 == Stopy
 
-Filter
-== Filtr
-
 Fire
 == Strzał
 
@@ -163,9 +160,6 @@ Force vote
 
 Free-View
 == Wolna kamera
-
-Friends
-== Znajomi
 
 Fullscreen
 == Pełny ekran
@@ -360,12 +354,6 @@ Screenshot
 Server address:
 == Adres serwera:
 
-Server details
-== Szczegóły serwera
-
-Server filter
-== Filtr serwerów
-
 Server info
 == Info serwera
 
@@ -550,9 +538,6 @@ Netversion:
 
 Map:
 == Mapa:
-
-Info
-== Info
 
 Hue
 == Kolor
@@ -1297,8 +1282,6 @@ Team %d
 == Drużyna %d
 
 [Graphics error]
-
-[Graphics error]
 Failed during initialization. Try to change gfx_backend to OpenGL or Vulkan in settings_ddnet.cfg in the config directory and try again.
 == 
 
@@ -1361,6 +1344,12 @@ Initializing map logic
 Sending initial client info
 == 
 
+Quitting. Please wait…
+== 
+
+Restarting. Please wait…
+== 
+
 Position:
 == 
 
@@ -1368,6 +1357,9 @@ Speed:
 == 
 
 Angle:
+== 
+
+Multi-View
 == 
 
 Uploading map data to GPU
@@ -1391,10 +1383,22 @@ Getting game info
 Requesting to join the game
 == 
 
+Rename folder
+== 
+
 A demo with this name already exists
 == 
 
+A folder with this name already exists
+== 
+
+Unable to rename the folder
+== 
+
 File '%s' already exists, do you want to overwrite it?
+== 
+
+(paused)
 == 
 
 Loading menu images
@@ -1446,10 +1450,33 @@ Pause the current demo
 Stop the current demo
 == 
 
+Go back the specified duration
+== 
+
+[Demo player duration]
+%d min.
+== 
+
+[Demo player duration]
+%d sec.
+== 
+
+Change the skip duration
+== 
+
+Go forward the specified duration
+== 
+
 Go back one tick
 == 
 
 Go forward one tick
+== 
+
+Go back one marker
+== 
+
+Go forward one marker
 == 
 
 Slow down the demo
@@ -1467,12 +1494,6 @@ Mark the end of a cut (right click to reset)
 Export cut as a separate demo
 == 
 
-Go back one marker
-== 
-
-Go forward one marker
-== 
-
 Close the demo player
 == 
 
@@ -1488,16 +1509,34 @@ Cut interval
 Cut length
 == 
 
+Render cut to video
+== 
+
 Loading demo files
+== 
+
+All combined
+== 
+
+Folder Link
 == 
 
 Open the directory that contains the demo files
 == 
 
+Are you sure that you want to delete the folder '%s'?
+== 
+
 Are you sure that you want to delete the demo '%s'?
 == 
 
+Delete folder
+== 
+
 Unable to delete the demo '%s'
+== 
+
+Unable to delete the folder '%s'. Make sure it's empty first.
 == 
 
 Loading ghost files
@@ -1710,4 +1749,7 @@ Loading race demo files
 == 
 
 Loading sound files
+== 
+
+Moved ingame
 == 
