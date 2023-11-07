@@ -1,3 +1,28 @@
+## [Infclass client v0.1.8](https://github.com/infclass/infclass-client/releases/tag/v0.1.8)
+
+- Client-side rendering for Scientist Mine and Soldier Bomb objects
+- Whitehole / kill progression indicator for Scientist HUD (there is already HUD for Hero, Engineer, and Looper)
+- Other small improvements
+- Based on DDNet v17.3 (a nightbuild from 2023-11-06)
+
+See also [Full features list](https://infclass.github.io/features)
+
+Links:
+- [Source code](https://github.com/infclass/infclass-client/releases/tag/v0.1.8)
+- [Windows build](https://github.com/infclass/infclass-client/releases/download/v0.1.8/Infclass-0.1.8-win64.zip)
+- [macOS build](https://github.com/infclass/infclass-client/releases/download/v0.1.8/Infclass-0.1.8-macos.dmg)
+
+(The build is done by [GitHub Action](https://github.com/infclass/infclass-client/actions/runs/6774997712), feel free to compare the check sums of the artifacts)
+
+**Flatpak package for Linux users**
+Install Infclass with the following command  (only x86_64 arch is available for now):
+```
+flatpak install https://infclass.github.io/flatpak/infclass-client.flatpakref
+```
+or just open the linked [infclass-client.flatpakref](https://infclass.github.io/flatpak/infclass-client.flatpakref) file  with a default app (KDE Discover, GNOME Software or whatever you have).
+
+See also: [How to install Flatpak manager for your distribution](https://flatpak.org/setup) (in case if you don't have it preinstalled).
+
 ## [Infclass client v0.1.7.1](https://github.com/infclass/infclass-client/releases/tag/v0.1.7.1)
 
 - Fixed Infclass HUD rendering for spectators
